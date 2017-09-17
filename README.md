@@ -1,0 +1,1 @@
+Download entire repo, then under builds, open the FinishedGame.exe to run the games. I created a main menu that goes along with the games that I have built. 
